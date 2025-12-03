@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Adrian Wierzba (@EvansOfficial)
 
 ## 🚀 About Me
-- 🎓 Student of **Data Security & Digital Forensics** at ![WSB University](https://img.shields.io/badge/WSB-University-ff69b4?style=flat&logo=gitbook&logoColor=white) 
+- 🎓 Student of **Data Security & Digital Forensics** at [Akademia WSB (WSB University)](https://wsb.edu.pl/cieszyn) ![WSB University](https://img.shields.io/badge/WSB-University-ff69b4?style=flat&logo=gitbook&logoColor=white) 
 - 💻 Passionate about **web development, computer networks, and cybersecurity**  
 - 🌱 Currently learning **ethical hacking (Kali Linux, penetration testing basics)**  
 - 🛠️ Confident with **Windows Server, Linux basics, and documentation research**  
