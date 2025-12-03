@@ -8,11 +8,14 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
 - 🎓 Student of **Data Security & Digital Forensics** at [Akademia WSB (WSB University)](https://wsb.edu.pl/cieszyn)
 - 💻 Passionate about **web development, computer networks, and cybersecurity**
 - 🛠️ Confident with **Windows Server, Linux administration, and OSINT**
-- ✨ "A man turns to theory when he gets stuck in practice, and to practice when theory fails."
+- 🧠 Focus on **Strategic Security**: Thinking like an attacker (Red) to defend like an architect (Blue).
+- ✨ *"A man turns to theory when he gets stuck in practice, and to practice when theory fails."*
 
 ---
 
