@@ -4,6 +4,7 @@
 - 🎓 Student of **Data Security & Digital Forensics** at [Akademia WSB (WSB University)](https://wsb.edu.pl/cieszyn)
 - 💻 Passionate about **web development, computer networks, and cybersecurity**
 - 🛠️ Confident with **Windows Server, Linux administration, and OSINT**
+- ![Purple Team](https://img.shields.io/badge/Strategy-Purple%20Team-6f42c1?style=for-the-badge&logo=hackthebox&logoColor=white) Aspiring Purple Team Specialist – bridging the gap between offensive techniques and digital forensics.
 - ✨ "A man turns to theory when he gets stuck in practice, and to practice when theory fails."
 
 ---
