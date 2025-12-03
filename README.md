@@ -82,7 +82,7 @@
 ## 🌐 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-Adrian%20Wierzba-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adrianwierzba/)  
 [![Facebook](https://img.shields.io/badge/-Adrian%20Wierzba-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/adrian.wierzba.25/)  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) **adrian.wierzba25@gmail.com**  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) --> **adrian.wierzba25@gmail.com**  
 
 ---
 
