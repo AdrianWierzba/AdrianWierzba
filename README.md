@@ -18,7 +18,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-blue?logo=microsoft)
+![Windows](https://img.shields.io/badge/Windows-blue?logo=microsoft)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=fff)
 ![Microsoft Office](https://img.shields.io/badge/microsoft_office-orange?logo=microsoft)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
@@ -31,7 +31,7 @@
 ---
 
 ## Stuff
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
