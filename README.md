@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Purple Team](https://img.shields.io/badge/Strategy-Purple%20Team-6f42c1?style=for-the-badge&logo=hackthebox&logoColor=white)
+// ![Purple Team](https://img.shields.io/badge/Strategy-Purple%20Team-6f42c1?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+![Blue Team](https://img.shields.io/badge/Strategy-Blue%20Team-0036d9?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ### *Aspiring Purple Team Specialist – bridging the gap between offensive techniques and digital forensics.*
 
